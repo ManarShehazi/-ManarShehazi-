@@ -8,11 +8,11 @@ Welcome to my GitHub profile! I'm a Master’s graduate in Data Science & AI fro
 I’m passionate about bridging science and engineering to solve real-world problems using machine learning. I enjoy working at the intersection of applied research, clean software design, and scalable infrastructure.
 
 ---
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
-<!-- 🧠 Programming Languages -->
+<!-- Programming Languages -->
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
@@ -26,7 +26,7 @@ I’m passionate about bridging science and engineering to solve real-world prob
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/MIPS-525252?style=flat-square&logoColor=white"/>
 
-<!-- 🧪 Machine Learning & Data Science -->
+<!-- Machine Learning & Data Science -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
@@ -38,7 +38,7 @@ I’m passionate about bridging science and engineering to solve real-world prob
 <img src="https://img.shields.io/badge/Anaconda-42B029?style=flat-square&logo=anaconda&logoColor=white"/>
 <img src="https://img.shields.io/badge/Explainable%20AI-blueviolet?style=flat-square&logo=openai&logoColor=white"/>
 
-<!-- ⚙️ Frameworks & Dev Tools -->
+<!-- Frameworks & Dev Tools -->
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
@@ -47,12 +47,12 @@ I’m passionate about bridging science and engineering to solve real-world prob
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
 <img src="https://img.shields.io/badge/OpenMP-0033A0?style=flat-square&logoColor=white"/>
 
-<!-- 🧱 Databases -->
+<!-- Databases -->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 
-<!-- 🔗 Version Control & Collaboration -->
+<!-- Version Control & Collaboration -->
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white"/>
@@ -64,7 +64,7 @@ I’m passionate about bridging science and engineering to solve real-world prob
 ---
 
 
-## 🌍 Languages I Speak
+## Languages I Speak
 
 - Arabic: Native  
 - English: C2  
@@ -72,7 +72,7 @@ I’m passionate about bridging science and engineering to solve real-world prob
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManarShehazi&layout=compact&theme=tokyonight" />
@@ -82,7 +82,7 @@ I’m passionate about bridging science and engineering to solve real-world prob
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 - 📨 shehazimanar@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/manar-shehazi-5a958a253/)
