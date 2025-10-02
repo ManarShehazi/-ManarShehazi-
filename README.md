@@ -1,12 +1,10 @@
 
 # Hi, I'm Manar 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B500&center=true&vCenter=true&width=435&lines=Applied+ML+%7C+Graph+Neural+Networks+%7C+Cloud+Infra+%7C+Backend+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B500&center=true&vCenter=true&width=435&lines=Applied+ML+%7C+ Graph+Neural+Networks+%7C+Cloud+Infra+%7C+Backend+Engineer)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile! I'm a Master’s graduate in Data Science & AI from Université Grenoble Alpes.  
 I focus on real-world applications of machine learning, with a strong interest in explainability, graph neural networks, and building reproducible systems.
-
-During my R&D internship at Eviden (Atos Group), I worked on **SE(3)-equivariant GNNs** for physical simulation data. I refactored a state-of-the-art model into a **modular PyTorch Lightning pipeline**, implemented **attention-based variants** inspired by Equiformer, and explored model **explainability using SHAP**. I collaborated with physicists and ML engineers to uncover structure-dynamics links in glassy systems.
 
 I'm passionate about combining rigorous science with scalable engineering to create clean, interpretable, and high-performance machine learning systems.
 
