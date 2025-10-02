@@ -8,9 +8,6 @@ Welcome to my GitHub profile! I'm a Master’s graduate in Data Science & AI fro
 I’m passionate about bridging science and engineering to solve real-world problems using machine learning. I enjoy working at the intersection of applied research, clean software design, and scalable infrastructure.
 
 ---
-
----
-
 ## 🛠 Tech Stack
 
 <div align="center">
