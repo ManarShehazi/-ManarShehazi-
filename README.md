@@ -1,14 +1,19 @@
-
 # Hi, I'm Manar 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=F7B500&center=true&vCenter=true&width=800&lines=GNNs+%7C+ML+Infrastructure+%7C+Explainable+AI+%7C+Research+Engineering)](https://git.io/typing-svg)
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ManarShehazi)
 
 Welcome to my GitHub profile! I'm a Master’s graduate in Data Science & AI from Université Grenoble Alpes.  
-I focus on real-world applications of machine learning, with a strong interest in explainability, graph neural networks, and building reproducible systems.
+I’m passionate about bridging science and engineering to solve real-world problems using machine learning.
 
-I'm passionate about combining rigorous science with scalable engineering to create clean, interpretable, and high-performance machine learning systems.
+During my R&D internship at Eviden (Atos Group), I:
+- Refactored a state-of-the-art SE(3)-equivariant GNN into a modular, scalable PyTorch Lightning pipeline.
+- Developed attention-based GNN variants inspired by Equiformer to model long-range dependencies in physical systems.
+- Applied SHAP and gradient-based explainability to interpret learned representations in glassy dynamics.
+- Collaborated with physicists and ML engineers on predictive modeling of particle mobility.
 
+I enjoy working at the intersection of applied research, clean software design, and scalable infrastructure.
 
 ---
 
@@ -36,8 +41,17 @@ I'm passionate about combining rigorous science with scalable engineering to cre
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=flat-square&logo=pytorchlightning&logoColor=white"/>
 
 </div>
+
+---
+
+## 🌍 Languages I Speak
+
+- 🇱🇧 Arabic: Native  
+- 🇬🇧 English: C2  
+- 🇫🇷 French: A2  
 
 ---
 
@@ -49,12 +63,9 @@ I'm passionate about combining rigorous science with scalable engineering to cre
   <img src="https://github-readme-stats.vercel.app/api?username=ManarShehazi&show_icons=true&theme=tokyonight" />
 </p>
 
-
 ---
 
 ## 📫 Contact Me
 
 - 📨 shehazimanar@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/manar-shehazi-5a958a253/)
-
-
