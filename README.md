@@ -4,10 +4,8 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ManarShehazi)
 
-Welcome to my GitHub profile! I'm a Master’s graduate in Data Science & AI from Université Grenoble Alpes.  
-I’m passionate about bridging science and engineering to solve real-world problems using machine learning.
-
-I enjoy working at the intersection of applied research, clean software design, and scalable infrastructure.
+Welcome to my GitHub profile! I'm a Master’s graduate in Data Science & AI from Grenoble INP ENSIMAG & Université Grenoble Alpes.  
+I’m passionate about bridging science and engineering to solve real-world problems using machine learning. I enjoy working at the intersection of applied research, clean software design, and scalable infrastructure.
 
 ---
 
