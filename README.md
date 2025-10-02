@@ -48,6 +48,6 @@ I’m passionate about building scalable systems, clean code, and reproducible p
 
 ## 📫 Contact Me
 
-- 📨 manar@example.com  
-- 🌐 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/manar-shehazi-5a958a253/))
+- 📨 shehazimanar@gmail.com  
+- 🌐 [LinkedIn]([https://www.linkedin.com/in/manar-shehazi-5a958a253/])
 
