@@ -1,4 +1,4 @@
-# Hi, I'm Manar 👋
+# Hi, I'm Manar 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=F7B500&center=true&vCenter=true&width=800&lines=GNNs+%7C+ML+Infrastructure+%7C+Explainable+AI+%7C+Research+Engineering)](https://git.io/typing-svg)
 
