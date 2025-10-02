@@ -7,12 +7,6 @@
 Welcome to my GitHub profile! I'm a Master’s graduate in Data Science & AI from Université Grenoble Alpes.  
 I’m passionate about bridging science and engineering to solve real-world problems using machine learning.
 
-During my R&D internship at Eviden (Atos Group), I:
-- Refactored a state-of-the-art SE(3)-equivariant GNN into a modular, scalable PyTorch Lightning pipeline.
-- Developed attention-based GNN variants inspired by Equiformer to model long-range dependencies in physical systems.
-- Applied SHAP and gradient-based explainability to interpret learned representations in glassy dynamics.
-- Collaborated with physicists and ML engineers on predictive modeling of particle mobility.
-
 I enjoy working at the intersection of applied research, clean software design, and scalable infrastructure.
 
 ---
@@ -49,9 +43,9 @@ I enjoy working at the intersection of applied research, clean software design, 
 
 ## 🌍 Languages I Speak
 
-- 🇱🇧 Arabic: Native  
-- 🇬🇧 English: C2  
-- 🇫🇷 French: A2  
+- Arabic: Native  
+- English: C2  
+- French: A2  
 
 ---
 
