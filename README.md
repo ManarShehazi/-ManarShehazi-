@@ -1,7 +1,7 @@
 
 # Hi, I'm Manar 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=F7B500&center=true&vCenter=true&width=600&lines=Graph+Neural+Networks+%7C+Cloud+Infra+%7C+Backend+Engineering+%7C+Explainable+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=F7B500&center=true&vCenter=true&width=800&lines=Graph+Neural+Networks+%7C+Cloud+Infra+%7C+%7C+Explainable+AI)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile! I'm a Master’s graduate in Data Science & AI from Université Grenoble Alpes.  
 I focus on real-world applications of machine learning, with a strong interest in explainability, graph neural networks, and building reproducible systems.
